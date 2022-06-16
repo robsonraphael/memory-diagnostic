@@ -1,0 +1,20 @@
+{
+  "name": "memory-diagnostic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robsonraphael/memory-diagnostic.git"
+  },
+  "keywords": [],
+  "author": "Robson Raphael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robsonraphael/memory-diagnostic/issues"
+  },
+  "homepage": "https://github.com/robsonraphael/memory-diagnostic#readme"
+}
